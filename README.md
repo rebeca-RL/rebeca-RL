@@ -1,5 +1,5 @@
 
-Meu nome é Rebeca Locatelli
+Meu nome é **Rebeca Locatelli**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
